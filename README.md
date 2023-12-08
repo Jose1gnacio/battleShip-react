@@ -53,3 +53,8 @@ Make sure you have Node.js and npm installed on your system before getting start
 ## Contributions
 
     This game is under construction. If you find bugs or have ideas to enhance the game, feel free to contribute! Open an issue or submit a pull request.
+
+## Preview
+
+![BattleShip](https://res.cloudinary.com/dxaialbs0/image/upload/v1702068681/git%20hub/vistaprevia_battleShip_p17rig.png)
+
