@@ -1,0 +1,95 @@
+body {
+  background-color: rgb(243, 222, 222);
+}
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.title {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.table {
+  width: 600px;
+  display: flex;
+  justify-content: center;
+}
+.user{
+  text-align: center;
+}
+.gameBoard {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  border: 1px solid #000;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5px;
+}
+.gameBoardContainer {
+  display: flex;
+}
+.cell {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+}
+.options {
+  margin-right: 50px;
+}
+.optionTitle {
+  text-align: center;
+}
+.ships {
+  display: flex;
+  margin: 10px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  
+}
+.optionShip {
+  display: flex;
+ justify-content: space-around;
+ margin-left: 20px;
+ padding: 0px;
+ padding-top: 0px;
+ padding-bottom: 0px;
+}
+.battleShip{
+  width: 80px;
+  height: 10px;
+  margin: 10px;
+  margin-right: 10px;
+  background-color: grey;
+  border-radius: 5px;
+}
+.submarine{
+  width: 60px;
+  height: 10px;
+  margin: 10px;
+  background-color: grey;
+  border-radius: 5px;
+}
+.destroyer{
+  width: 40px;
+  height: 10px;
+  margin: 10px;
+  background-color: grey;
+  border-radius: 5px;
+}
+.buttons {
+  text-align: center; 
+}
+
+.button-container {
+  margin-bottom: 30px; 
+}
+
+.flipButton,
+.startButton {
+  display: block;
+  margin: 0 auto; 
+}
