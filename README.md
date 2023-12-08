@@ -19,7 +19,7 @@ Make sure you have Node.js and npm installed on your system before getting start
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/battleship-react.git
+   git clone https://github.com/yourusername/battleShip-react.git
 
 2. Navigate to the project directory:
 
@@ -35,7 +35,7 @@ Make sure you have Node.js and npm installed on your system before getting start
 
 5. Open your browser and visit localhost.
 
-## Cómo jugar
+## How to Play
 
     Drag and drop ships from the options section onto the player's board. Use the "Rotate Ships" button to change the orientation of the ships. Once you have placed your ships, press "Start" to begin the game. Click on cells in the opponent's board to try to guess the location of enemy ships.
 
